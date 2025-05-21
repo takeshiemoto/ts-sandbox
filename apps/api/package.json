@@ -67,5 +67,15 @@
         }
       }
     }
+  },
+  "dependencies": {
+    "express-session": "^1.18.1",
+    "passport": "^0.7.0",
+    "passport-saml": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/express-session": "^1.18.1",
+    "@types/passport": "^1.0.17",
+    "@types/passport-saml": "^1.1.7"
   }
 }
