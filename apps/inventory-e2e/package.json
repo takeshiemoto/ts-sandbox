@@ -1,0 +1,10 @@
+{
+  "name": "@ts-sandbox/inventory-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@ts-sandbox/inventory"
+    ]
+  }
+}
